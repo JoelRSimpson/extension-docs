@@ -82,8 +82,6 @@ Options:
 - key: `starfield`<br/>
   options:
 
-  - `ySpeed (number|Array[number])` - default: `[4, 8]` - An array specifying the min and max y speed of the stars in the field. If only one value is provided, all stars are the same speed.
-  - `rotationSpeed (number)` - default: `0` - Speed of starfield rotation in radians per frame. Small numbers are appropriate (e.g. 0.0001)!
   - `starCount (number)` - default: `400` - Quantity of stars in the field. Increasing this number will increase the visual density of the stars on screen.
 
 - key: `vr`<br/>
